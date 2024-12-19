@@ -14,13 +14,13 @@ We completed all the stages for RAG architecture.
 - similarity searching
 - connect to chatGPT
 
-## Web view and logic implementation repository
+## Web view implementation repository
 You can see our Web view implementation at https://github.com/TriCode-Ewha/eduve-frontend.
 
 Not yet implemented.
 
 
-## Web view and logic implementation repository
+## Web logic implementation repository
 You can see our Web logic implementation at https://github.com/TriCode-Ewha/eduve-backend-springboot.
 
 We used springboot at there.
